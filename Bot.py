@@ -8,10 +8,10 @@
  *  Requires only Node.js >= 18 and `curl`.
  *
  *  Quick Start (Any VPS / Render / Railway / Pterodactyl / Termux / PC):
- *    export TELEGRAM_BOT_TOKEN="your_bot_token"
+ *    export TELEGRAM_BOT_TOKEN="9048455612:AAFYUUgBdi_XL6RatqMA4N-UFDAzpBcH9aY"
  *    export TELEGRAM_ADMIN_ID="7831629041"
  *    export TELEGRAM_ADMIN_USERNAME="@CODINGJAMES_X"
- *    node fbtoolbot.js
+ *    node Bot.pt
  * ============================================================================
  */
 
